@@ -25,6 +25,8 @@ class Person:
         elif self.score >80 and self.score<=100:
             self.gradeTAG='good'
             print ('grade is good')
+        else:
+            print("That's not possible")
 
 
 
