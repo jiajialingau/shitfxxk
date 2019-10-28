@@ -9,10 +9,16 @@ class airplane:
         
         
     def display(self):
-        os.system('cls')
         print ("Air Plane name is: "+self.planename)
         print ("Air Plane model is: "+self.planemodel)
         print ("Air Plane Reg number is: "+self.planereg)
+    
+    
+    def takeoff(self):
+        print (self.planename+" of "+self.planemodel+" is taking off now!")
+        
+        
+    
     
     
     

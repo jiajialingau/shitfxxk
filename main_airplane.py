@@ -13,3 +13,5 @@ planereg=input("Please input air plane reg number: ")
 myplane = airplane.airplane(planename,planemodel,planereg)
 myplane.display()
 
+myplane.takeoff()
+
