@@ -1,5 +1,6 @@
 
 import os
+import sys
 class Person:
 
     def __init__(self, firstname, lastname, score):
