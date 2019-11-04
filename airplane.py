@@ -18,6 +18,9 @@ class airplane:
         print (self.planename+" of "+self.planemodel+" is taking off now!")
         
         
+## fuck this!
+        
+        
     
     
     
