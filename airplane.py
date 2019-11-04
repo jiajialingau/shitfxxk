@@ -16,6 +16,12 @@ class airplane:
     
     def takeoff(self):
         print (self.planename+" of "+self.planemodel+" is taking off now!")
+
+    
+    def landing(self):
+        print(self.planename+" of "+self.planereg+" is landing now!")
+
+        
         
         
 ## fuck this!
