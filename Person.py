@@ -2,6 +2,8 @@
 import os
 import sys
 class Person:
+    
+    ##fuck off
 
     def __init__(self, firstname, lastname, score):
         self.firstname=firstname
