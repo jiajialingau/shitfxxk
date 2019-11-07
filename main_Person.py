@@ -15,3 +15,5 @@ stu1 = Person.Person(Fname,Lname,Score)
 
 stu1.Pr()
 stu1.grade()
+
+# Pause
