@@ -25,8 +25,8 @@ class airplane:
         
         
 ## fuck this!
-        
-        
+## shit off!
+
     
     
     
